@@ -1,0 +1,24 @@
+---
+title: "Tynan Challenor"
+about:
+  template: solana  
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/eander462
+      target: _blank
+    - icon: linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/tynan-challenor-9a008416a/
+      target: _blank
+    - icon: mortarboard
+      text: "UW Website"
+      href: https://econ.washington.edu/people/tynan-challenor
+      target: _blank
+    - icon: envelope
+      text: "Email"
+      href: "mailto:tynanc@uw.edu"
+      target: _blank
+---
+
+Welcome! I am third year PhD student in economics at the University of Washington, specializing in urban and development economics. 

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tynan Challenor",
+    "section": "",
+    "text": "Welcome! I am third year PhD student in economics at the University of Washington, specializing in urban and development economics."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Tynan Challenor",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: tynanc@uw.edu\nGitHub: https://github.com/tynan-challenor\n(Optional) CV: link here"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Write a short bio here."
+  },
+  {
+    "objectID": "about.html#research-projects",
+    "href": "about.html#research-projects",
+    "title": "About",
+    "section": "Research / Projects",
+    "text": "Research / Projects\n\nProject A\nProject B"
+  },
+  {
+    "objectID": "about.html#links",
+    "href": "about.html#links",
+    "title": "About",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar: …\nTwitter/Bluesky/LinkedIn: …"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Work in progress\n\nFlat or Flats? Spillovers from Upzoning in Informality and Mortality in Delhi\n(With Eric Wang)\nBAMIMBY (By All Means In My Back Yard): A Dynamic Urban Model of Street Votes"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "Flat or Flats? The Impact of Up-Zoning on Prices, Slums, and Mortality in Delhi\n(With Eric Wang)\nBAMIMBY (By All Means In My Back Yard): A Dynamic Urban Model of Street Votes"
+  }
+]

@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+Write a short bio here.
+
+## Research / Projects
+- Project A
+- Project B
+
+## Links
+- Google Scholar: …
+- Twitter/Bluesky/LinkedIn: …
