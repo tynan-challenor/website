@@ -5,7 +5,7 @@ about:
   links:
     - icon: github
       text: "GitHub"
-      href: https://github.com/eander462
+      href: https://github.com/tynan-challenor
       target: _blank
     - icon: linkedin
       text: "LinkedIn"
